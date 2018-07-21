@@ -11,6 +11,8 @@ http://download.java.net/openjdk/jdk7/promoted/b147/openjdk-7-fcs-src-b147-27_ju
 
 ## 准备编译环境
 
+* 首先请阅读一遍openjdk目录下的README-builds.html
 
+* 接下来以Mac OS 10.11.6为例
 
-
+	首先需要安装最新版本的XCode和Command Line Tools for XCode
